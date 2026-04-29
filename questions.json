@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 1,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "擦伤形成的表皮组织出血或组织液渗出，以下处理方法正确的是",
+    "options": [
+      "用冰袋冷敷伤口",
+      "热敷伤口止血",
+      "生理盐水洗净创面，消毒止血"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "运动中出现踝关节扭伤，以下处理方法正确的是",
+    "options": [
+      "停止运动，马上热敷",
+      "停止运动，立即按摩",
+      "停止运动，进行冷敷"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "烧烫伤严重时，以下处理方法正确的是",
+    "options": [
+      "迅速拨打急救电话",
+      "涂抹紫药水或红药水",
+      "轻轻按摩，贴创可贴"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "足球比赛时，运动员要求穿护袜带护腿板，其主要目的是",
+    "options": [
+      "看起来很酷",
+      "安全防护",
+      "能跑得快"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "体育锻炼中，有效预防运动损伤的正确做法是",
+    "options": [
+      "运动过程中嬉笑打闹，动作幅度大",
+      "拒绝保护帮助，完成动作犹豫不决",
+      "运动前热身，运动后放松，运动负荷适宜"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "属于急性闭合性软组织损伤的是",
+    "options": [
+      "扭伤",
+      "擦伤",
+      "割伤"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "需要紧急医疗救助时，应拨打的急救电话号码是",
+    "options": [
+      "110",
+      "119",
+      "120或999"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "在家中闻到浓烈的煤气异味时，第一时间正确的做法是",
+    "options": [
+      "打开门窗，关掉阀门",
+      "打开抽油烟机",
+      "打电话求救"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "在厨房炒菜油锅起火时，下面正确的处理方法是",
+    "options": [
+      "关闭燃气，盖上锅盖或湿布",
+      "浇水扑火",
+      "关门逃离"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "电器起火，第一时间正确的做法是",
+    "options": [
+      "切断电源",
+      "拨打120",
+      "用水浇灭"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "消防安全宣传日是",
+    "options": [
+      "10月19日",
+      "11月9日",
+      "1月9日"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "在密闭环境下使用煤炉取暖、做饭，可能产生大量的有害气体积蓄在室内，会造成煤气中毒。这些有害气体主要是",
+    "options": [
+      "氧气",
+      "氯气",
+      "一氧化碳"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "体育课上要避免运动意外伤害的发生，以下正确的做法是",
+    "options": [
+      "未按教师要求进行练习",
+      "擅自做有危险的器械动作",
+      "在指定区域内有序开展活动"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "下列是防暑降温药品的是",
+    "options": [
+      "藿香正气水",
+      "感冒清",
+      "维生素C"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "火灾发生时，应拨打的求助电话号码是",
+    "options": [
+      "120",
+      "119",
+      "114"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "当你正在五楼的教室上课时，如果发生了地震，正确的做法是",
+    "options": [
+      "冲出教室，找电梯逃生",
+      "跳出窗户逃生",
+      "躲避桌下，远离窗户，保护头部"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "某同学活动时不小心摔倒，用手撑地，导致手腕疼痛无法活动。以下正确的做法是",
+    "options": [
+      "用一本厚书托起受伤的手腕并陪同到医务室进一步处理",
+      "立刻按摩疼痛部位",
+      "用热毛巾敷在手腕处"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "在游泳前，正确的做法是",
+    "options": [
+      "做好充分的准备活动后下水",
+      "换好衣服后直接跳下水",
+      "不做准备活动往身上浇水后下水"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "体育锻炼时准备活动的作用是",
+    "options": [
+      "消耗过度的体能",
+      "激活身体各部位，避免损伤",
+      "浪费时间"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "人被犬咬伤后应立即用大量流动水冲洗伤口，并尽快去正规医院注射抗狂犬病血清和",
+    "options": [
+      "狂犬病疫苗",
+      "流感疫苗",
+      "乙肝疫苗"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "流行性感冒是由流感病毒引起的急性呼吸道传染病，病原体有甲、乙、丙三型，其主要传播途径是",
+    "options": [
+      "飞沫传播",
+      "血液传播",
+      "虫媒传播"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "发热，也叫“发烧”，是疾病的体征之一。健康人的体温一般为",
+    "options": [
+      "33℃至35℃",
+      "36℃至37℃",
+      "38℃至39℃"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "日常生活中，下列有助于预防传染病的措施是",
+    "options": [
+      "喝生水",
+      "科学的洗手",
+      "吃不洁瓜果"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "日常生活中用于消毒的酒精浓度是",
+    "options": [
+      "60%",
+      "50%",
+      "75%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "预防呼吸道传染病需要注意：培养健康的生活习惯，创造良好的环境卫生和",
+    "options": [
+      "在疾病流行期采取必要防护",
+      "每天早晚不刷牙",
+      "在流动摊点乱吃东西"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "下列经血液传播的传染病是",
+    "options": [
+      "流感",
+      "乙肝",
+      "红眼病"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "肺结核的传播途径是",
+    "options": [
+      "呼吸道传播",
+      "消化道传播",
+      "虫媒传播"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "以下可能会引起肠道传染病的行为是",
+    "options": [
+      "餐前洗手",
+      "使用公筷",
+      "吃不清洁食物"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "以下疾病中属于传染病的是",
+    "options": [
+      "高血压",
+      "心脏病",
+      "新型冠状病毒感染"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "“积极调控情绪”的方法是",
+    "options": [
+      "积极运动，主动缓解压力",
+      "长时间痛哭流涕",
+      "闷闷不乐，默不作声"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "以下属于积极情绪的是",
+    "options": [
+      "乐观向上",
+      "冲动愤怒",
+      "难过悲伤"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "以下属于消极情绪的是",
+    "options": [
+      "心悦身松",
+      "紧张焦虑",
+      "阳光快乐"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "坚持体育锻炼对心理发展的价值是愉悦身心、缓解疲劳、展示能力和",
+    "options": [
+      "增强自信",
+      "容易焦虑",
+      "身心疲惫"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "运动后正确的补水方法是",
+    "options": [
+      "少量多次",
+      "多量少次",
+      "多量多次"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "初中《国家学生体质健康标准》测试项目包含体重指数、肺活量、800米/1000米、引体向上、仰卧起坐、立定跳远、50米和",
+    "options": [
+      "坐位体前屈",
+      "跳绳",
+      "50米×8"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "立定跳远的有效练习方法是",
+    "options": [
+      "斜身引体",
+      "俯卧撑",
+      "连续跳过小垫子"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "发展灵敏性的有效练习方法是",
+    "options": [
+      "深蹲",
+      "“T”形移动",
+      "俯卧撑"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "在体育锻炼中，通常用来控制运动强度的是",
+    "options": [
+      "安静心率",
+      "靶心率",
+      "最大心率"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "发生火灾时，除应隔离烟雾、低姿逃生外，逃生时还应",
+    "options": [
+      "用手捂住口鼻",
+      "用干毛巾捂住口鼻",
+      "用湿毛巾捂住口鼻"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "对提高睡眠质量有积极性作用的是",
+    "options": [
+      "睡前大量进食",
+      "饭后剧烈运动",
+      "规律、适度的运动"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "保护视力重要的方式包括养成正确读写姿势和",
+    "options": [
+      "边吃饭，边看书",
+      "良好的用眼卫生习惯",
+      "昏暗光线下看书"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "长时间近距离用眼，每半小时到一小时至少休息",
+    "options": [
+      "5-10分钟",
+      "1-2分钟",
+      "2-3分钟"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "“健康四大基石”是指合理膳食、适量运动、规律生活和",
+    "options": [
+      "晚睡早起",
+      "心理平衡",
+      "过度用眼"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "健康不仅是身体没有疾病，而且是身体、心理、社会适应三者的完好状态。以下属于健康生活方式的是",
+    "options": [
+      "暴饮暴食",
+      "消极情绪",
+      "规律生活"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "运动后，为了快速补充身体内流失的水分，以下正确的做法是",
+    "options": [
+      "大量饮用冰镇饮料",
+      "大量饮用牛奶",
+      "适量饮用淡盐水"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 46,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "有关体育锻炼的良好习惯，以下选项中正确的是",
+    "options": [
+      "规律运动",
+      "锻炼后不放松",
+      "不做准备活动"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "要做到合理膳食，以下选项中正确的是",
+    "options": [
+      "糖份口感好，可过量摄入",
+      "多吃油炸食品",
+      "适量搭配谷物薯类"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "如果体质健康测试结果显示肥胖状态，合理减脂的方式是",
+    "options": [
+      "吃减肥药",
+      "合理膳食，适量运动",
+      "每天只吃一顿饭"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "有关体育锻炼的作用，以下选项中描述正确的是",
+    "options": [
+      "促进骨骼生长发育",
+      "不利于培养坚强的意志品质",
+      "不能促进大脑的发育"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "在中长跑练习中，出现速度下降、喘粗气、疲惫不堪的感觉，这种现象在运动中称之为",
+    "options": [
+      "休克",
+      "昏厥",
+      "极点"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "通常判断肥胖的标准是",
+    "options": [
+      "体重指数(BMI)",
+      "身高",
+      "体重"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "青春期预防脊柱侧弯的方法正确的是",
+    "options": [
+      "长时间躺在床上玩手机",
+      "正确的站姿、坐姿",
+      "长时间伏案"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 53,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "以下适合发展心肺耐力的项目是",
+    "options": [
+      "象棋",
+      "射箭",
+      "中长跑"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "运动前，以下做法正确的是",
+    "options": [
+      "暴饮暴食",
+      "充分热身",
+      "不做热身"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "运动后，以下做法正确的是",
+    "options": [
+      "立即坐下",
+      "多喝冰水",
+      "拉伸放松"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 56,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "以下属于积极性休息的做法是",
+    "options": [
+      "经常熬夜",
+      "适度体育锻炼",
+      "过度上网"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "以下有利于青春期生长发育的做法是",
+    "options": [
+      "挑食偏食",
+      "体育锻炼",
+      "盲目节食"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "影响身高的主要因素包括遗传因素、激素水平、营养状况和",
+    "options": [
+      "体力活动",
+      "营养品",
+      "保健品"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "合理控制体重的方法主要包括加强体育锻炼和",
+    "options": [
+      "暴饮暴食",
+      "调整饮食",
+      "吃减肥药"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "吸烟对身体的影响是",
+    "options": [
+      "促进身体健康",
+      "增强免疫力",
+      "影响肺部健康，诱发肺部疾病"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "type": "choice",
+    "category": "健康教育",
+    "question": "冬天参加滑冰活动，应选择",
+    "options": [
+      "正规开放的冰场",
+      "结冰的河道",
+      "结冰的湖面"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "田径比赛中，以下属于径赛项目的是",
+    "options": [
+      "铅球",
+      "铁饼",
+      "400米"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "田径比赛中，以下属于集体项目的是",
+    "options": [
+      "跳高",
+      "铅球",
+      "4×100米接力"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 64,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "足球比赛中裁判员判罚某个球员离场，出示",
+    "options": [
+      "绿牌",
+      "黑牌",
+      "红牌"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "在奥运会上，中国三大球中唯一拿到过冠军的队伍是",
+    "options": [
+      "女子排球队",
+      "女子足球队",
+      "女子篮球队"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 66,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "在端午节举行的中华民族民间体育项目是",
+    "options": [
+      "足球",
+      "篮球",
+      "龙舟"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 67,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "在2020年东京奥运会男子100米半决赛中，跑出9秒83的成绩，打破亚洲纪录的中国运动员是",
+    "options": [
+      "刘翔",
+      "苏炳添",
+      "谢震业"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "轮滑运动是由某个项目演变而来的，这个项目是",
+    "options": [
+      "滑冰",
+      "体操",
+      "武术"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 69,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "田径比赛中，以下属于田赛项目的是",
+    "options": [
+      "100米",
+      "跳高",
+      "800米"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "跳台滑雪比赛中，裁判员的评分依据主要是运动员完成的",
+    "options": [
+      "高度和远度",
+      "姿势和飞行距离",
+      "时间和距离"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "中国的国球是",
+    "options": [
+      "乒乓球",
+      "足球",
+      "网球"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 72,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "现行乒乓球比赛规则中，规定一方队员发几个球后，需要交换发球权",
+    "options": [
+      "2个",
+      "3个",
+      "4个"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 73,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "篮球比赛中，进攻队员脚踩三分线投篮命中，应判定得",
+    "options": [
+      "1分",
+      "2分",
+      "3分"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "正规排球比赛中，规定双方先发队员出场的人数各为",
+    "options": [
+      "6名",
+      "8名",
+      "11名"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "代表当今世界最高水平的足球比赛是四年一届的",
+    "options": [
+      "世界杯足球赛",
+      "亚洲杯足球赛",
+      "美洲杯足球赛"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 76,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "足球比赛中，掷界外球队员跳起掷球，应判罚为",
+    "options": [
+      "继续比赛",
+      "黄牌警告",
+      "违例，由对方掷界外球"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 77,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "篮球比赛中进攻队员跳起投篮，球出手后比赛计时器时间走完比赛结束，球投进篮筐，应判罚为",
+    "options": [
+      "进球无效",
+      "进球有效",
+      "技术犯规"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "一场正规篮球比赛，比赛分为",
+    "options": [
+      "3节",
+      "4节",
+      "5节"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "篮球比赛中，运球队员在运球过程中双手将球拿起后，再继续运球，应判罚为",
+    "options": [
+      "继续比赛",
+      "两次运球违例",
+      "侵人犯规"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 80,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "100米比赛中，参赛选手哪个身体部位抵达终点线被视为完成比赛",
+    "options": [
+      "头",
+      "手",
+      "躯干"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 81,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "以下属于中华民族传统体育项目的是",
+    "options": [
+      "太极拳",
+      "空手道",
+      "柔术"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 82,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "作为东道主观赛时，提倡的观赛礼仪是",
+    "options": [
+      "只为本队加油",
+      "为双方队员加油喝彩",
+      "诋毁或辱骂对方队员"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 83,
+    "type": "choice",
+    "category": "体育文化",
+    "question": "现场观看体育比赛后，正确的做法是",
+    "options": [
+      "走捷径尽快离场",
+      "杂物带出场外",
+      "垃圾留在座位"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 84,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "使用兴奋剂不仅会危害运动员的身体健康，还严重违背了",
+    "options": [
+      "公平竞争原则",
+      "平等原则",
+      "公开原则"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 85,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "球出界，裁判未发现，运动员主动示意对方球权，这种体育品德属于",
+    "options": [
+      "追求卓越",
+      "勇敢顽强",
+      "诚实守信"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "2022年冬奥会的举办地是中国北京和",
+    "options": [
+      "张家口",
+      "长春",
+      "哈尔滨"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 87,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "2022年北京冬奥会使用的国家速滑馆又称为",
+    "options": [
+      "“水立方”",
+      "“鸟巢”",
+      "“冰丝带”"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 88,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "冬奥会中被称为“冰上象棋”的运动项目是",
+    "options": [
+      "冰壶",
+      "花样滑冰",
+      "短道速滑"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 89,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "现代奥林匹克运动会每几年举办一次",
+    "options": [
+      "5年",
+      "4年",
+      "3年"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "被誉为“现代奥林匹克之父”的现代奥林匹克运动会的创始人是",
+    "options": [
+      "马泰奥",
+      "顾拜旦",
+      "维凯拉斯"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "奥运五环颜色从左至右依次为蓝、黄、黑、绿和",
+    "options": [
+      "紫",
+      "红",
+      "粉"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "中国第一位正式参加奥运会的运动员是",
+    "options": [
+      "沈嗣良",
+      "刘长春",
+      "于希渭"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "为中国夺得现代奥运会“首金”的射击运动员是",
+    "options": [
+      "许海峰",
+      "王义夫",
+      "杨凌"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 94,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "2022年北京冬奥会的吉祥物是",
+    "options": [
+      "金丝猴",
+      "中华鲟",
+      "冰墩墩"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 95,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "2008年北京奥运会和2022年北京冬奥会开幕式举行的地点是",
+    "options": [
+      "首都体育馆",
+      "“水立方”",
+      "“鸟巢”"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 96,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "2022年北京冬奥会、冬残奥会主题口号是",
+    "options": [
+      "一起向未来",
+      "同一个世界，同一个梦想",
+      "人文奥运，绿色奥运"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 97,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "世界上第一个既举办过夏奥会又举办过冬奥会的城市是",
+    "options": [
+      "中国北京",
+      "俄罗斯索契",
+      "意大利都灵"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 98,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "古代奥运会起源于",
+    "options": [
+      "古希腊",
+      "古埃及",
+      "古印度"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 99,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "2022年北京冬残奥会吉祥物是",
+    "options": [
+      "雪容融",
+      "福娃",
+      "熊猫盼盼"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 100,
+    "type": "choice",
+    "category": "体育精神",
+    "question": "以下选项中体现优良体育道德的是",
+    "options": [
+      "不服裁判判决",
+      "故意弄伤对方",
+      "自觉遵守规则"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 101,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "运动前，做好充分的准备活动可以有效地预防运动损伤。",
+    "answer": "√"
+  },
+  {
+    "id": 102,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "参加800米/1000米测试时，为了节省体力，可以不做准备活动。",
+    "answer": "×"
+  },
+  {
+    "id": 103,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "轻度烫烧伤只损伤到皮肤表皮浅层，表现为皮肤表面变红，局部轻度红肿，无水泡，疼痛明显，创伤表面干燥。",
+    "answer": "√"
+  },
+  {
+    "id": 104,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "发现有人溺水时，应大声呼救或拨打求助电话。在确保自身的安全情况下可采用合适的器械在岸上间接救助。",
+    "answer": "√"
+  },
+  {
+    "id": 105,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "某同学打篮球时踝关节扭伤，同伴立刻帮助他按摩。",
+    "answer": "×"
+  },
+  {
+    "id": 106,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "发生火灾时，报警人拨打火灾报警电话后，应该到门口或交通路口等待消防车到来。",
+    "answer": "√"
+  },
+  {
+    "id": 107,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "生活中暴饮暴食会造成消化不良，引起肚子痛，甚至上吐下泻。",
+    "answer": "√"
+  },
+  {
+    "id": 108,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "体育锻炼时，树立安全意识，提高避险能力，可以有效地减少意外伤害的发生。",
+    "answer": "√"
+  },
+  {
+    "id": 109,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "遇到雷雨闪电时，可以在大树下避雨并使用手机。",
+    "answer": "×"
+  },
+  {
+    "id": 110,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "遇到大风天气时，应到大树下、广告牌下躲避。",
+    "answer": "×"
+  },
+  {
+    "id": 111,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "到山区露营，如遇到河水迅速上涨，要快速向河谷两岸高处撤离。",
+    "answer": "√"
+  },
+  {
+    "id": 112,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "高楼发生火灾时，应该乘坐电梯尽快逃离火场。",
+    "answer": "×"
+  },
+  {
+    "id": 113,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "骑自行车出行时，可以进入机动车道骑行。",
+    "answer": "×"
+  },
+  {
+    "id": 114,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "在马路上骑自行车时，应在自行车道骑行；如无自行车道应紧靠慢车道右侧骑行。",
+    "answer": "√"
+  },
+  {
+    "id": 115,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "对于大量出血的受伤人员，在专业救援人员未到现场之前应设法止血。",
+    "answer": "√"
+  },
+  {
+    "id": 116,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "轻微擦伤时可以用生理盐水洗净创面，伤口周围用酒精或双氧水消毒，用碘伏等涂抹伤口，也可以用创可贴保护伤口。",
+    "answer": "√"
+  },
+  {
+    "id": 117,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "擦伤伤口创面大，污染严重时要注射破伤风或抗病毒血清。",
+    "answer": "√"
+  },
+  {
+    "id": 118,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "发生闭合性骨折后，要尽快用固定材料将骨折端固定，不再活动伤处。",
+    "answer": "√"
+  },
+  {
+    "id": 119,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "高温、高湿、通风不良环境下，长时间从事繁重体力劳动或体育运动，容易发生中暑。",
+    "answer": "√"
+  },
+  {
+    "id": 120,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "在马路上踢球、滑旱冰、玩滑板等运动，可以提高个人技术，挑战自我，是件很惬意的事。",
+    "answer": "×"
+  },
+  {
+    "id": 121,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "运动时，如果大腿肌肉拉伤应立即停止运动，并进行冷敷。",
+    "answer": "√"
+  },
+  {
+    "id": 122,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "在体育锻炼时，除了要做好充分的准备活动以外，还要检查活动场地是否安全。",
+    "answer": "√"
+  },
+  {
+    "id": 123,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "流感患者打喷嚏应该用手帕捂住口鼻，减少疾病传播的机会。",
+    "answer": "√"
+  },
+  {
+    "id": 124,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "传染病传播的三个基本条件是：传染源、传播途径和易感人群。",
+    "answer": "√"
+  },
+  {
+    "id": 125,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "六步洗手法的步骤是：一搓手掌、二洗手背、三擦指缝、四扭指背、五转拇指、六揉指尖。",
+    "answer": "√"
+  },
+  {
+    "id": 126,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "在流感高发期，流感患者应尽量不到人多拥挤、空气污浊的场所。",
+    "answer": "√"
+  },
+  {
+    "id": 127,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "在流感流行季节到来前接种流感疫苗，可减少感染的机会或减轻流感症状。",
+    "answer": "√"
+  },
+  {
+    "id": 128,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "流感流行时，应减少集会，注意房间通风并接种流感疫苗。",
+    "answer": "√"
+  },
+  {
+    "id": 129,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "病原体也叫“病原生物”，是能引起人和动植物传染病的微生物和寄生虫的统称。",
+    "answer": "√"
+  },
+  {
+    "id": 130,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "海姆立克急救法是指救人者站在病人身后，两手抱住病人腰部，用手对上腹部进行快速冲击，重复这一动作，直到异物从气管中排出。",
+    "answer": "√"
+  },
+  {
+    "id": 131,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "易感人群是指对某种传染病具有免疫力的人群。",
+    "answer": "×"
+  },
+  {
+    "id": 132,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "传染病只危害个人、危害家庭，不危害社会。",
+    "answer": "×"
+  },
+  {
+    "id": 133,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "不生病、身体健康，就没有必要锻炼身体，每天坚持锻炼身体会耽误宝贵的学习时间。",
+    "answer": "×"
+  },
+  {
+    "id": 134,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "为了拥有健康的体魄，我们应该坚持每天至少一小时的体育锻炼。",
+    "answer": "√"
+  },
+  {
+    "id": 135,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "合理主食要做到多吃蔬菜，吃适量水果和薯类，以及适量的鱼、禽、蛋和瘦肉。",
+    "answer": "√"
+  },
+  {
+    "id": 136,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "人体必需的营养素包含糖类、脂类、蛋白质、维生素和矿物质等。",
+    "answer": "√"
+  },
+  {
+    "id": 137,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "运动开始前要进行热身，运动结束后要进行拉伸放松。",
+    "answer": "√"
+  },
+  {
+    "id": 138,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "日常多喝碳酸饮料，是补充水分的主要途径。",
+    "answer": "×"
+  },
+  {
+    "id": 139,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "初中生正处于身体快速发育阶段，如果体重过低、超重或者肥胖，合理控制体重的办法是调整饮食和加强体育锻炼。",
+    "answer": "√"
+  },
+  {
+    "id": 140,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "周末和父母一起锻炼，可以通过监测心率的方法，调控运动强度，做到科学锻炼。",
+    "answer": "√"
+  },
+  {
+    "id": 141,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "合理膳食就是多吃肉，少吃蔬菜。",
+    "answer": "×"
+  },
+  {
+    "id": 142,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "课余长时间使用手机、电脑上网，这是休息的好方式。",
+    "answer": "×"
+  },
+  {
+    "id": 143,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "健康仅仅是指身体没有疾病。",
+    "answer": "×"
+  },
+  {
+    "id": 144,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "青少年时期要注意培养自己良好的生活习惯，合理安排作息时间。",
+    "answer": "√"
+  },
+  {
+    "id": 145,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "青少年每天的膳食应含有新鲜的蔬菜、水果等维生素C含量丰富的食物。",
+    "answer": "√"
+  },
+  {
+    "id": 146,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "长期不吃早餐可能会诱发消化道疾病，影响身体健康。",
+    "answer": "√"
+  },
+  {
+    "id": 147,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "导致肥胖的主要因素包括遗传、饮食不当和缺乏运动等。",
+    "answer": "√"
+  },
+  {
+    "id": 148,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "频繁长时间近距离用眼，导致调节痉挛，引发视疲劳，持续发展就会导致视力减退。",
+    "answer": "√"
+  },
+  {
+    "id": 149,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "经常在昏暗的灯光下看书不会影响视力。",
+    "answer": "×"
+  },
+  {
+    "id": 150,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "长时间玩手机、电脑游戏，不会影响视力。",
+    "answer": "×"
+  },
+  {
+    "id": 151,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "经常参加体育活动有助于消除人的孤独感和自卑感。",
+    "answer": "√"
+  },
+  {
+    "id": 152,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "经常参加体育活动，能够使人感到集体的温暖，并在与同伴的相互交往中增进友谊。",
+    "answer": "√"
+  },
+  {
+    "id": 153,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "长期吸烟和被动吸烟可能会导致癌症、心血管疾病、呼吸系统疾病等多种疾病。",
+    "answer": "√"
+  },
+  {
+    "id": 154,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "青春期经常参加适当的体育锻炼能促进身高增长。",
+    "answer": "√"
+  },
+  {
+    "id": 155,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "体重指数(BMI)是判断是否肥胖的重要依据。",
+    "answer": "√"
+  },
+  {
+    "id": 156,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "长时间读书、学习，如果不注意身体姿势，会引起脊柱变形。",
+    "answer": "√"
+  },
+  {
+    "id": 157,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "青少年必须要有正确的坐姿和站姿。",
+    "answer": "√"
+  },
+  {
+    "id": 158,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "青少年充足的睡眠可以促进记忆和生长发育。",
+    "answer": "√"
+  },
+  {
+    "id": 159,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "户外运动有利于体内维生素D的合成，促进骨骼的健康发育。",
+    "answer": "√"
+  },
+  {
+    "id": 160,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "经常进行体育锻炼可以促进骨骼变粗、骨密质增厚，骨骼抗弯、抗折、抗压能力增强。",
+    "answer": "√"
+  },
+  {
+    "id": 161,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "经常进行体育锻炼，可以使呼吸肌、心肌的力量增强，胸廓运动幅度和血管壁弹性加大，从而改善呼吸和心血管机能。",
+    "answer": "√"
+  },
+  {
+    "id": 162,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "烟酒中的有害物质会使大脑机能衰退、智力下降。",
+    "answer": "√"
+  },
+  {
+    "id": 163,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "脸上长了“青春痘”不能自己用手随意挤压，以免感染。",
+    "answer": "√"
+  },
+  {
+    "id": 164,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "青春期会出现身高迅速增长，体重明显增加，心脏发育迅速，肺活量显著增加，生殖器官、第二性征发育显著的变化。",
+    "answer": "√"
+  },
+  {
+    "id": 165,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "参加体育活动有利于调节情绪，塑造健康向上、积极乐观的性格。",
+    "answer": "√"
+  },
+  {
+    "id": 166,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "从降低焦虑的效果来看，长期锻炼比短期锻炼更能产生积极的效果。",
+    "answer": "√"
+  },
+  {
+    "id": 167,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "面对压力时，人的机体常常产生一种自发的神经反应，这种反应是应激反应。",
+    "answer": "√"
+  },
+  {
+    "id": 168,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "只要注意休息、合理膳食，没有一个好的心态同样可以拥有健康。",
+    "answer": "×"
+  },
+  {
+    "id": 169,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "体育锻炼对于消除焦虑和缓解抑郁有积极的作用。",
+    "answer": "√"
+  },
+  {
+    "id": 170,
+    "type": "judge",
+    "category": "健康教育",
+    "question": "心理健康的人能保持良好的心态、乐观开朗、积极向上、热爱生活。",
+    "answer": "√"
+  },
+  {
+    "id": 171,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "欣赏乒乓球比赛时，要学会从战术和技术等方面来全面观看、分析和评论。",
+    "answer": "√"
+  },
+  {
+    "id": 172,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "在排球比赛中，击球时没有清晰地将球击出，或接触球有较长时间的停留，即为持球犯规。",
+    "answer": "√"
+  },
+  {
+    "id": 173,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "足球运动员在掷界外球时双脚可以离开地面。",
+    "answer": "×"
+  },
+  {
+    "id": 174,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "观赛前，观众适当了解该运动项目的基本规则，这样有利于更好的观赛，提高比赛理解能力。",
+    "answer": "√"
+  },
+  {
+    "id": 175,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "奥运会田径比赛中，200米比赛时为了取得更好成绩可以串跑道。",
+    "answer": "×"
+  },
+  {
+    "id": 176,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "在速度滑冰比赛中，为捕捉精彩瞬间，可以打开闪光灯拍照。",
+    "answer": "×"
+  },
+  {
+    "id": 177,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "在投掷项目的比赛中设有投掷区，投掷时脚踩到投掷区以外的地面，不属于犯规。",
+    "answer": "×"
+  },
+  {
+    "id": 178,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "拔河比赛中，拔河队员齐心协力才是取胜的关键，啦啦队员的鼓励助威无足轻重，喊不喊加油都无所谓。",
+    "answer": "×"
+  },
+  {
+    "id": 179,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "比赛场上，当一个国家的国歌奏响，国旗升起之时，应该肃然起立，向国旗行注目礼。",
+    "answer": "√"
+  },
+  {
+    "id": 180,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "正面双手垫球是排球运动中最基本的技术之一，常用于接发球和防守。",
+    "answer": "√"
+  },
+  {
+    "id": 181,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "欣赏高水平比赛时，除了观看比赛也要了解该项目的观赛礼仪。",
+    "answer": "√"
+  },
+  {
+    "id": 182,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "立定跳远测试时，落地后不慎后倒，手后撑触地，距离依然应从脚落地的位置开始丈量。",
+    "answer": "×"
+  },
+  {
+    "id": 183,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "在进行坐位体前屈测试时，可以借助同伴帮助以取得更好的成绩。",
+    "answer": "×"
+  },
+  {
+    "id": 184,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "奥运会100米比赛中，运动员挤撞或阻挡妨碍其他运动员前进，应取消该运动员的比赛资格。",
+    "answer": "√"
+  },
+  {
+    "id": 185,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "奥运会足球比赛时，双方首发上场各有11名队员。",
+    "answer": "√"
+  },
+  {
+    "id": 186,
+    "type": "judge",
+    "category": "体育文化",
+    "question": "乒乓球比赛中，球还未落到球台就将球击回是符合规则的。",
+    "answer": "×"
+  },
+  {
+    "id": 187,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "现代科学技术的高速发展有力地提高了奥林匹克运动的水平和成绩。",
+    "answer": "√"
+  },
+  {
+    "id": 188,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "奥林匹克运动重要的功能是教育，它为学生提供了学习的榜样。",
+    "answer": "√"
+  },
+  {
+    "id": 189,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "北京是第一个举办过夏季奥运会和冬季奥运会的“双奥城市”。",
+    "answer": "√"
+  },
+  {
+    "id": 190,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "2022年北京冬奥会、冬残奥会主题口号是：一起向未来。",
+    "answer": "√"
+  },
+  {
+    "id": 191,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "奥林匹克五环标志象征着五大洲的团结，象征着全世界的运动员在奥运会上团聚。",
+    "answer": "√"
+  },
+  {
+    "id": 192,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "残奥会能够促进残疾人事业发展，形成尊重、关心和帮助残疾人的社会氛围。",
+    "answer": "√"
+  },
+  {
+    "id": 193,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "2022年北京冬季残奥会的会徽“飞跃”，象征并激发运动员以坚强的意志作为精神的翅膀，在冬奥赛场上放飞青春梦想。",
+    "answer": "√"
+  },
+  {
+    "id": 194,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "在篮球赛中，既要展示自我又要与同伴合作配合。",
+    "answer": "√"
+  },
+  {
+    "id": 195,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "优良的意志品质是与生俱来的，无法在实践活动中通过克服困难逐渐形成。",
+    "answer": "×"
+  },
+  {
+    "id": 196,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "体育运动中，每个人都应该在遵守规则的前提下，进行公平竞争。",
+    "answer": "√"
+  },
+  {
+    "id": 197,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "奥林匹克运动会不断践行着公平公正的准则，不断传递着体育道德的正能量。",
+    "answer": "√"
+  },
+  {
+    "id": 198,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "参与体育比赛要有正确的胜负观，做到胜不骄、败不馁。",
+    "answer": "√"
+  },
+  {
+    "id": 199,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "体育比赛中，要团结队友、尊重对手。",
+    "answer": "√"
+  },
+  {
+    "id": 200,
+    "type": "judge",
+    "category": "体育精神",
+    "question": "篮球比赛过程中只要个人发挥好就可以了。",
+    "answer": "×"
+  }
+]
