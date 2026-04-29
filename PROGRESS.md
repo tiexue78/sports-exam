@@ -19,7 +19,7 @@
 
 ### 4. 代码 Bug 修复 ✓
 - P0: RLS 策略改为 USING(true)（无 Supabase Auth 场景）
-- P0: .eq('col', null) 改为空字符串匹配
+- P0: `.eq('col', null)` 改为空字符串匹配
 - P0: NULL 在 UNIQUE 约束中失效 → category/question_type 默认值改为空字符串
 - P1: error_count 递增改为原子性 RPC 函数 `increment_error_count`
 - P1: 考试重复作答改为先删后插
@@ -45,20 +45,39 @@
 - API 端到端测试通过
 - 电脑端浏览器功能测试通过
 
+### 7. 手机端适配验证 ✓
+- 重构为三段式布局：顶部固定 + 中间可滚动 + 底部导航固定
+- 修复竖屏下底部按钮溢出屏幕问题
+- 登录表单位置优化，居中偏上
+- 适配移动端触摸操作，按钮尺寸、间距优化
+- 本地 WiFi 下手机访问测试通过
+
+### 8. 部署配置完成 ✓
+- 配置 Next.js 静态导出（`output: 'export'`），支持所有静态部署平台
+- Vercel 部署成功（状态 Ready）
+- Cloudflare Pages 部署配置方案确认
+
 ---
 
 ## 待完成
 
-### 7. 手机端适配验证
-- 在手机浏览器上测试所有功能
-- 确保按钮大小、间距、字体可用
-- 触摸交互验证
+### 9. 绑定自定义域名（进行中）
+- 等待腾讯云域名购买完成
+- 绑定域名到 Vercel/Cloudflare Pages，配置国内可访问的解析
+- 上线后公网测试
 
-### 8. 部署到 Vercel
-- 推送代码到 Git 仓库
-- Vercel 部署
-- 配置环境变量（NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY）
-- 上线后手机端实测
+---
+
+## 问题记录
+
+### 部署相关问题
+1. **Vercel 域名屏蔽**：Vercel 默认分配的 `.vercel.app` 二级域名在国内大部分地区被运营商屏蔽，无法直接访问，必须绑定自定义域名
+2. **Cloudflare Pages 构建冲突**：Cloudflare 自动识别 Next.js 项目时会默认使用 OpenNext 适配器，与纯客户端静态导出模式冲突，需要手动设置 Framework preset 为 `None`，自定义构建命令为 `npx next build`，输出目录为 `out`
+3. **国内访问限制**：国外部署平台的默认域名普遍存在访问限制，必须绑定自定义域名才能稳定使用
+
+### 其他问题
+1. **内网穿透工具源问题**：常用穿透工具 cpolar 不在 npm 官方源，国内使用可选择 `localtunnel` 或飞书/钉钉等国内穿透工具
+2. **跨网络访问**：不在同一 WiFi 下访问需要公网穿透或自定义域名方案
 
 ---
 
@@ -88,12 +107,12 @@ sports-exam/
 │   └── app/
 │       ├── layout.tsx                # 根布局
 │       ├── globals.css               # 全局样式
-│       ├── page.tsx                  # 首页/登录（始终显示登录表单）
+│       ├── page.tsx                  # 首页/登录
 │       ├── learn/page.tsx            # 学习模式
 │       ├── exam/page.tsx             # 考试模式
 │       ├── wrong/page.tsx            # 错题本
 │       └── history/page.tsx          # 历史记录
-├── .env.local                        # Supabase 连接信息（已配置）
+├── .env.local                        # Supabase 连接信息（本地配置，不提交）
 ├── CLAUDE.md
 ├── README.md
 └── PROGRESS.md                       # 本文件
